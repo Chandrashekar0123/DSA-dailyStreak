@@ -1,2 +1,6 @@
-# DSA-dailyStreak
-This repo consists of my all dsa programs from beginar to advance level also represents consistancey.
+# DSA Daily Streak
+
+## Basics of Programming
+
+- [Hello World.py](Basics-of-Programming/Hello-World.py)
+- [Hello World.java](Basics-of-Programming/Hello-World.java)
