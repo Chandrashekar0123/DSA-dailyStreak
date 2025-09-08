@@ -2,5 +2,5 @@
 
 ## Basics of Programming
 
-- [Hello World.py](Basics-of-Programming/Hello-World.py)
-- [Hello World.java](Basics-of-Programming/Hello-World.java)
+- [Hello-world.java](Basics-of-Programming/Hello-world.java)
+- [Hello-world.py](Basics-of-Programming/Hello-world.py)
