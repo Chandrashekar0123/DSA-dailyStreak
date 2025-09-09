@@ -13,11 +13,9 @@
 
 <h2> Loops </h2>
 
--[For loop](Loops\forl.java)
-
--[while loop](Loops\whilel.java)
-
--[Do While Loop](Loops\dowhilel.java)
+- [For loop](Loops\forl.java)
+- [while loop](Loops\whilel.java)
+- [Do While Loop](Loops\dowhilel.java)
 
 ---
 
