@@ -1,5 +1,4 @@
 <h1> DSA Daily Streak </h1>
-===
 
 <h2> Basics of Programming </h2>
 
