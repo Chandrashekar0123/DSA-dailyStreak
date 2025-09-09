@@ -1,125 +1,108 @@
-📘 Fundamentals of Programming – (Java vs Python)
-1. Program
+# 📘 Fundamentals of Programming – (Java vs Python)
 
-A program is a set of instructions written to perform a specific task.
+## 1. Program
+A program is a set of instructions written to perform a specific task.  
+It tells the computer what to do step by step.  
 
-It tells the computer what to do step by step.
+**Java:** Needs to be written inside a class and compiled first, then run using JVM.  
+**Python:** Can be written directly in a file or interpreter, no compilation needed.  
 
-Java → Needs to be written inside a class and compiled first, then run using JVM (Java Virtual Machine).
+**🔹 Key Difference:** Java is compiled + run, Python is directly executed.
 
-Python → Can be written directly in a file or interpreter, no compilation needed (interpreted language).
+## 2. Source Code
+The instructions written by the programmer in a programming language are called source code.  
+It is human-readable and stored in files (`.py`, `.java`).  
 
-🔹 Key Difference:
-Java is compiled + run, while Python is directly executed.
+**Java:** `.java` files → compiled to `.class` files.  
+**Python:** `.py` files → executed directly.
 
-2. Source Code
+## 3. Compiler & Interpreter
+**Compiler:** Translates the whole program into machine code at once. Faster execution but takes time.  
+**Interpreter:** Translates and executes line by line. Easier but slower.  
 
-The instructions written by the programmer in a programming language are called source code.
+**Java:** Compiled to bytecode (`.class`) → executed by JVM.  
+**Python:** Purely interpreted.
 
-It is human-readable and stored in files (like .py,.java).
+## 4. Variables
+A variable is a name given to a memory location storing data.  
 
-Java → Written in .java files. After compilation, .class files are generated.
+**Java:** Strongly typed.  
+```java
+int age = 20;
 
-Python → Written in .py files. Code runs directly using Python interpreter.
+Python: Dynamically typed.
 
-3. Compiler & Interpreter
+age = 20
 
-Compiler: Translates the whole program into machine code at once. Faster execution but takes time to compile (used in C, C++, Java).
+# 🔹 Key Difference: Java needs type declaration; Python does not.
 
-Interpreter: Translates and executes the program line by line. Easier for beginners but slower (used in Python, JavaScript).
-
-Java → Uses both. Code is compiled into bytecode (.class) and then executed by the JVM.
-
-Python → Purely interpreted, executed line by line by the Python interpreter.
-
-4. Variables
-
-A variable is a name given to a memory location where data is stored.
-
-The value of a variable can change during the execution of the program.
-
-Example: storing a student’s name, age, or marks in variables
-
-Java → Strongly typed. You must declare variable type before using it.
-
-Example: int age = 20;
-
-Python → Dynamically typed. You just assign a value; type is decided automatically.
-
-Example: age = 20
-
-🔹 Key Difference:
-Java needs type declaration, Python does not.
+---
 
 5. Data Types
 
-Java (primitive + objects):
-
-byte, short, int, float, double, char, boolean, String (object).
-
-Python (everything is object):
-
-int, float, str, bool, list, tuple, dict.
+Java: byte, short, int, float, double, char, boolean, String
+Python: int, float, str, bool, list, tuple, dict
 
 6. Input and Output
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+System.out.println("Hello");
+Python:
 
-Java →
-
-Input → Scanner sc = new Scanner(System.in);
-
-Output → System.out.println("Hello");
-
-Python →
-
-Input → input("Enter: ")
-
-Output → print("Hello")
-
+python
+Copy code
+n = int(input("Enter: "))
+print("Hello")
 7. Keywords
-
-Java → ~50 reserved words like int, class, public, static, void.
-
-Python → ~35 reserved words like def, class, if, else, import.
+Java: ~50 reserved words (int, class, public, static, void)
+Python: ~35 reserved words (def, class, if, else, import)
 
 8. Conditional Statements
-Conditional statements allow the program to make decisions based on conditions.
+Decision-making statements.
 
-Types:
+Java:
 
-If Statement → Executes a block of code only if a condition is true.
+java
+Copy code
+if(condition) {
+    // code
+} else if(condition2) {
+    // code
+} else {
+    // code
+}
+Python:
 
-If-Else Statement → Executes one block if the condition is true, another if it is false.
-
-If-Else If Ladder → Used when multiple conditions must be checked one after another.
-
-Java → Needs parentheses and braces {}.
-
+python
+Copy code
+if condition:
+    # code
+elif condition2:
+    # code
+else:
+    # code
 9. Switch Statement
+Java:
 
-A switch statement is used when a variable needs to be compared with many possible values.
-
-Instead of writing multiple if-else statements, switch provides a cleaner structure.
-
-Example in real life:
-
-If day = 1 → Monday
-
-If day = 2 → Tuesday
-
-Else → Other day
-
-Java → Has switch keyword. Used widely.
-
+java
+Copy code
 switch(day) {
     case 1: System.out.println("Monday"); break;
     case 2: System.out.println("Tuesday"); break;
     default: System.out.println("Other");
 }
+Python (3.10+):
 
-
-Python → No direct switch, but match-case introduced in Python 3.10.
-
+python
+Copy code
 match day:
     case 1: print("Monday")
     case 2: print("Tuesday")
     case _: print("Other")
+vbnet
+Copy code
+
+
+
+
+
