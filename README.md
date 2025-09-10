@@ -22,12 +22,12 @@
 
 <h2> Patterns </h2>
 
-- [Solid Rectangle](Patterns\SolidRectangle.java)
-- [Hollow Rectangle](Patterns\HollowRectangle.java)
-- [Half Pyramid](Patterns\HalfPyramid.java)
-- [Invered Half Pyramid](Patterns\InveredHalfPyramid.java)
-- [Inverted Half Pyramid2](Patterns\InvertedHalfPyramid2.java)
-- [Half Pyramid With Numbers](Patterns\HalfPyramidWithNumbers.java)
+- [Solid Rectangle](Patterns/SolidRectangle.java)
+- [Hollow Rectangle](Patterns/HollowRectangle.java)
+- [Half Pyramid](Patterns/HalfPyramid.java)
+- [Invered Half Pyramid](Patterns/InveredHalfPyramid.java)
+- [Inverted Half Pyramid2](Patterns/InvertedHalfPyramid2.java)
+- [Half Pyramid With Numbers](Patterns/HalfPyramidWithNumbers.java)
 - [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)
 - [Floyd's Triangle](Patterns/FloydsTriangle.java)
 - [0-1 Triangle](Patterns/0-1Triangle.java)
