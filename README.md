@@ -14,9 +14,28 @@
 <h2> Loops </h2>
 
 - [For loop](Loops/forl.java)
-- [while loop](Loops/whilel.java)
-- [Do While Loop](Loops/dowhilel.java)
+- [while loop](Loops/dowhilel.java/whilel.java)
+- [Do While Loop](Loops/dowhilel.java/dowhilel.java)
+- [Notes](Loops/README.md)
 
 ---
 
-<h2> . </h2>
+<h2> Patterns </h2>
+
+- [Solid Rectangle](Patterns\SolidRectangle.java)
+- [Hollow Rectangle](Patterns\HollowRectangle.java)
+- [Half Pyramid](Patterns\HalfPyramid.java)
+- [Invered Half Pyramid](Patterns\InveredHalfPyramid.java)
+- [Inverted Half Pyramid2](Patterns\InvertedHalfPyramid2.java)
+- [Half Pyramid With Numbers](Patterns\HalfPyramidWithNumbers.java)
+- [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)
+- [Floyd's Triangle](Patterns/FloydsTriangle.java)
+- [0-1 Triangle](Patterns/0-1Triangle.java)
+- [Butterfly Pattern](Patterns/Butterfly.java)
+- [Solid Rhombus](Patterns/SolidRhombus.java)
+- [Number Pyramid](Patterns/NumberPyramid.java)
+- [Palindromic Pattern](Patterns/PalindromicPattern.java)
+- [Diomand Pattern](Patterns/DiomandPattern.java)
+- [Notes](Patterns/README.md)
+
+---
