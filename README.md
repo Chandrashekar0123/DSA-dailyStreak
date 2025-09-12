@@ -39,3 +39,14 @@
 - [Notes](Patterns/README.md)
 
 ---
+
+<h2> Functions (Methods in Java) </h2>
+
+- [Print My Name using Method](Functions/PrintMyName.java)  
+- [Factorial using Method](Functions/factorial.java)  
+- [Add Two Numbers using Method](Functions/add2nos.java)  
+- [Notes on Functions & Methods](Functions/README.md)
+
+---
+
+
