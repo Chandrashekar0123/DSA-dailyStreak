@@ -49,7 +49,7 @@
 
 ---
 
-<h2> [Time and Space Complexity](https://github.com/Chandrashekar0123/DSA-dailyStreak/blob/main/Time-Space-Complexity) </h2>
+<h2><a href="Time-Space-Complexity">Time and Space Complexity</a></h2>
 
 ---
 
