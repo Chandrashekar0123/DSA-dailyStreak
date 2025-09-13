@@ -53,3 +53,33 @@
 
 ---
 
+<h2> Arrays </h2>
+
+  BasicArray.java
+- [Linear Search](Arrays/LinearSearch.java)
+Search2D-Array.java
+TransposeMatrix.java
+- Notes
+
+<h2> Strings
+Strings/StringOperations.java
+String/StringBuilderDemo.java
+ReverseString.java
+Notes
+
+<h2> Operators </h2>
+Operators/Assignment.java
+Arithmatic.java
+Assignment.java
+Relational.java
+Logical.java
+Bitwise.java
+Notes
+
+<h2> Bit Manipulation </h2>
+Get.java
+set.java
+Clear.java
+Update.java
+Notes.md
+
