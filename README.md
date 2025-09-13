@@ -63,7 +63,7 @@
 - [Linear Search](Arrays/LinearSearch.java)  
 - [2D Array Search](Arrays/Search2D-Array.java)  
 - [Transpose of Matrix](Arrays/TransposeMatrix.java)  
-- [Notes](Arrays/README.md)  
+- [Notes](Arrays/ReadMe.md)  
 
 ---
 
@@ -72,7 +72,7 @@
 - [String Operations](Strings/StringOperations.java)  
 - [StringBuilder Demo](Strings/StringBuilderDemo.java)  
 - [Reverse String](Strings/ReverseString.java)  
-- [Notes](Strings/README.md)  
+- [Notes](Strings/ReadMe.md)  
 
 ---
 
@@ -83,7 +83,7 @@
 - [Relational Operators](Operators/Relational.java)  
 - [Logical Operators](Operators/Logical.java)  
 - [Bitwise Operators](Operators/Bitwise.java)  
-- [Notes](Operators/README.md)  
+- [Notes](Operators/ReadMe.md)  
 
 ---
 
@@ -93,6 +93,6 @@
 - [Set a Bit](Bit-Manipulation/Set.java)  
 - [Clear a Bit](Bit-Manipulation/Clear.java)  
 - [Update a Bit](Bit-Manipulation/Update.java)  
-- [Notes](Bit-Manipulation/README.md)  
+- [Notes](Bit-Manipulation/ReadMe.md)  
 
 ---
