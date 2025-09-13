@@ -60,9 +60,7 @@
       {4, 5, 6},
       {7, 8, 9}
   };
-```
 
----
 
 
 ### 🔹 8. 2D Arrays in Python
@@ -75,7 +73,7 @@
   ]
   ```
 
-  ---
+---
 
 ## 📚 Arrays & 2D Arrays – Quick Reference (From Common Operations Onwards)
 
