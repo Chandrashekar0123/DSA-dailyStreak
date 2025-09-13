@@ -1,85 +1,98 @@
-<h1> DSA Daily Streak </h1>
-
-<h2> Basics of Programming </h2>
-
-- [Hello-world.java](Basics-of-Programming/Hello-world.java)
-- [Hello-world.py](Basics-of-Programming/Hello-world.py)
-- [condition1 (else if)](Basics-of-Programming/condition1.java)
-- [elseifladderpy](Basics-of-Programming/elseifladder.py)
-- [Switch](Basics-of-Programming/switchstmt.java)
-- [Notes](Basics-of-Programming/README.md)
+# DSA Daily Streak
 
 ---
 
-<h2> Loops </h2>
+## Basics of Programming
 
-- [For loop](Loops/forl.java)
-- [while loop](Loops/dowhilel.java/whilel.java)
-- [Do While Loop](Loops/dowhilel.java/dowhilel.java)
-- [Notes](Loops/README.md)
-
----
-
-<h2> Patterns </h2>
-
-- [Solid Rectangle](Patterns/SolidRectangle.java)
-- [Hollow Rectangle](Patterns/HollowRectangle.java)
-- [Half Pyramid](Patterns/HalfPyramid.java)
-- [Invered Half Pyramid](Patterns/InveredHalfPyramid.java)
-- [Inverted Half Pyramid2](Patterns/InvertedHalfPyramid2.java)
-- [Half Pyramid With Numbers](Patterns/HalfPyramidWithNumbers.java)
-- [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)
-- [Floyd's Triangle](Patterns/FloydsTriangle.java)
-- [0-1 Triangle](Patterns/0-1Triangle.java)
-- [Butterfly Pattern](Patterns/Butterfly.java)
-- [Solid Rhombus](Patterns/SolidRhombus.java)
-- [Number Pyramid](Patterns/NumberPyramid.java)
-- [Palindromic Pattern](Patterns/PalindromicPattern.java)
-- [Diomand Pattern](Patterns/DiomandPattern.java)
-- [Notes](Patterns/README.md)
+- [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
+- [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
+- [Conditionals (Java: if-else)](Basics-of-Programming/condition1.java)  
+- [Conditionals (Python: else-if ladder)](Basics-of-Programming/elseifladder.py)  
+- [Switch Statement (Java)](Basics-of-Programming/switchstmt.java)  
+- [Notes](Basics-of-Programming/README.md)  
 
 ---
 
-<h2> Functions (Methods in Java) </h2>
+## Loops
+
+- [For Loop (Java)](Loops/forl.java)  
+- [While Loop (Java)](Loops/whilel.java)  
+- [Do-While Loop (Java)](Loops/dowhilel.java)  
+- [Notes](Loops/README.md)  
+
+---
+
+## Patterns
+
+- [Solid Rectangle](Patterns/SolidRectangle.java)  
+- [Hollow Rectangle](Patterns/HollowRectangle.java)  
+- [Half Pyramid](Patterns/HalfPyramid.java)  
+- [Inverted Half Pyramid](Patterns/InveredHalfPyramid.java)  
+- [Inverted Half Pyramid 2](Patterns/InvertedHalfPyramid2.java)  
+- [Half Pyramid with Numbers](Patterns/HalfPyramidWithNumbers.java)  
+- [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)  
+- [Floyd's Triangle](Patterns/FloydsTriangle.java)  
+- [0-1 Triangle](Patterns/0-1Triangle.java)  
+- [Butterfly Pattern](Patterns/Butterfly.java)  
+- [Solid Rhombus](Patterns/SolidRhombus.java)  
+- [Number Pyramid](Patterns/NumberPyramid.java)  
+- [Palindromic Pattern](Patterns/PalindromicPattern.java)  
+- [Diamond Pattern](Patterns/DiomandPattern.java)  
+- [Notes](Patterns/README.md)  
+
+---
+
+## Functions (Methods in Java)
 
 - [Print My Name using Method](Functions/PrintMyName.java)  
 - [Factorial using Method](Functions/factorial.java)  
 - [Add Two Numbers using Method](Functions/add2nos.java)  
-- [Notes on Functions & Methods](Functions/README.md)
+- [Notes on Functions & Methods](Functions/README.md)  
 
 ---
 
-<h2><a href="Time-Space-Complexity.md">Time and Space Complexity</a></h2>
+## Time and Space Complexity
+
+- [Time and Space Complexity](Time-Space-Complexity.md)  
 
 ---
 
-<h2> Arrays </h2>
+## Arrays
 
-  BasicArray.java
-- [Linear Search](Arrays/LinearSearch.java)
-Search2D-Array.java
-TransposeMatrix.java
-- Notes
+- [Basic Array Operations](Arrays/BasicArray.java)  
+- [Linear Search](Arrays/LinearSearch.java)  
+- [2D Array Search](Arrays/Search2D-Array.java)  
+- [Transpose of Matrix](Arrays/TransposeMatrix.java)  
+- [Notes](Arrays/README.md)  
 
-<h2> Strings
-Strings/StringOperations.java
-String/StringBuilderDemo.java
-ReverseString.java
-Notes
+---
 
-<h2> Operators </h2>
-Operators/Assignment.java
-Arithmatic.java
-Assignment.java
-Relational.java
-Logical.java
-Bitwise.java
-Notes
+## Strings
 
-<h2> Bit Manipulation </h2>
-Get.java
-set.java
-Clear.java
-Update.java
-Notes.md
+- [String Operations](Strings/StringOperations.java)  
+- [StringBuilder Demo](Strings/StringBuilderDemo.java)  
+- [Reverse String](Strings/ReverseString.java)  
+- [Notes](Strings/README.md)  
 
+---
+
+## Operators
+
+- [Arithmetic Operators](Operators/Arithmatic.java)  
+- [Assignment Operators](Operators/Assignment.java)  
+- [Relational Operators](Operators/Relational.java)  
+- [Logical Operators](Operators/Logical.java)  
+- [Bitwise Operators](Operators/Bitwise.java)  
+- [Notes](Operators/README.md)  
+
+---
+
+## Bit Manipulation
+
+- [Get a Bit](Bit-Manipulation/Get.java)  
+- [Set a Bit](Bit-Manipulation/Set.java)  
+- [Clear a Bit](Bit-Manipulation/Clear.java)  
+- [Update a Bit](Bit-Manipulation/Update.java)  
+- [Notes](Bit-Manipulation/README.md)  
+
+---
