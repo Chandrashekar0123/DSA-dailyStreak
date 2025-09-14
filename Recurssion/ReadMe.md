@@ -50,49 +50,49 @@ Can lead to stack overflow if the base case is not defined properly.
 ## 📂 Files Overview
 
 ### 🔹 Basic Recursion Programs
-- **[Printing elements using Recursion](Recurssion/PrintRecurssion.java)**  
+- **[Printing elements using Recursion](PrintRecurssion.java)**  
   Recursively prints elements (numbers, arrays, or characters) without using loops.
 
-- **[Sum of Natural Numbers](Recurssion/SumOfNaturalNumbers.java)**  
+- **[Sum of Natural Numbers](SumOfNaturalNumbers.java)**  
   Calculates the sum of the first `n` natural numbers using recursion.
 
-- **[Factorial](Recurssion/Factorial.java)**  
+- **[Factorial](Factorial.java)**  
   Computes factorial of a given number using recursion.
 
-- **[Fibonacci](Recurssion/Fibonacci.java)**  
+- **[Fibonacci](Fibonacci.java)**  
   Prints or returns Fibonacci numbers using recursion.
 
-- **[Power Of n](Recurssion/PowerOfn.java)**  
+- **[Power Of n](PowerOfn.java)**  
   Calculates `x^n` using recursive exponentiation.
 
-- **[Tower of Hanoi](Recurssion/TowerOfHanoi.java)**  
+- **[Tower of Hanoi](TowerOfHanoi.java)**  
   Solves the Tower of Hanoi problem showing the moves from one peg to another.
 
-- **[Reverse String](Recurssion/ReverseString.java)**  
+- **[Reverse String](ReverseString.java)**  
   Reverses a given string using recursion.
 
 ---
 
 ### 🔹 String Manipulation using Recursion
-- **[First and Last Occurrence](Recurssion/FirstLastOccurrence.java)**  
+- **[First and Last Occurrence](FirstLastOccurrence.java)**  
   Finds the first and last occurrence of a given character in a string.
 
-- **[Strictly Sorted](Recurssion/StrictlySorted.java)**  
+- **[Strictly Sorted](StrictlySorted.java)**  
   Checks if an array is strictly sorted (handles duplicates as well).
 
-- **[Move All X](Recurssion/MoveAllX.java)**  
+- **[Move All X](MoveAllX.java)**  
   Moves all occurrences of a character (e.g., ‘x’) to the end of the string.
 
-- **[Remove Duplicates](Recurssion/RemoveDuplicates.java)**  
+- **[Remove Duplicates](RemoveDuplicates.java)**  
   Removes duplicate characters from a string while preserving order.
 
-- **[Subsequences](Recurssion/Subsequences.java)**  
+- **[Subsequences](Subsequences.java)**  
   Prints all possible subsequences of a given string.
 
-- **[Keypad Combinations](Recurssion/KeypadCombinations.java)**  
+- **[Keypad Combinations](KeypadCombinations.java)**  
   Generates all possible letter combinations from a given number using the classic mobile keypad mapping.
 
-- **[Unique Subsequences](Recurssion/UniqueSubsequences.java)**  
+- **[Unique Subsequences](UniqueSubsequences.java)**  
   Prints all **unique** subsequences of a string, avoiding duplicates.
 
 ---
