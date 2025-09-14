@@ -129,13 +129,13 @@
 
 ## Advance Recurssion  
 
-- [Unique Subsequences](Recurssion/UniqueSubsequences.java)  
-- [Permutation](Recurssion/Permutation.java)  
-- [Total Path](Recurssion/TotalPath.java)  
-- [Tiling Problem](Recurssion/TilingProblem.java)  
-- [Invite Guest](Recurssion/InviteGuest.java)  
-- [Subset of Natural Numbers](Recurssion/SubsetofNaturalno.java)  
-- [Notes](Recurssion/ReadMe.md)  
+
+- [Permutation](Advance-Recurssion/Permutation.java)  
+- [Total Path](Advance-Recurssion/TotalPath.java)  
+- [Tiling Problem](Advance-Recurssion/TilingProblem.java)  
+- [Invite Guest](Advance-Recurssion/InviteGuest.java)  
+- [Subset of Natural Numbers](Advance-Recurssion/SubsetofNaturalno.java)  
+- [Notes](Advance-Recurssion/ReadMe.md)  
 
 ---
 
