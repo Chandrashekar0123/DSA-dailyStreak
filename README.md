@@ -96,3 +96,33 @@
 - [Notes](Bit-Manipulation/ReadMe.md)  
 
 ---
+
+## 📑 Sorting
+
+- [Bubble Sort](Sorting/BubbleSort.java)  
+- [Selection Sort](Sorting/SelectionSort.java)  
+- [Insertion Sort](Sorting/InsertionSort.java)  
+- [Binary Search](Sorting/BinarySearch.java)  
+- [Notes](Sorting/ReadMe.md)  
+
+---
+
+## 🔁 Recursion
+
+- [Printing Elements using Recursion](Recurssion/PrintRecurssion.java)  
+- [Sum Of Natural Numbers](Recurssion/SumOfNaturalNumbers.java)  
+- [Factorial](Recurssion/Factorial.java)  
+- [Fibonacci](Recurssion/Fibonacci.java)  
+- [Power Of n](Recurssion/PowerOfn.java)  
+- [Tower Of Hanoi](Recurssion/TowerOfHanoi.java)  
+- [Reverse String](Recurssion/ReverseString.java)  
+- [First & Last Occurrence](Recurssion/FirstLastOccurrence.java)  
+- [Strictly Sorted](Recurssion/StrictlySorted.java)  
+- [Move All X](Recurssion/MoveAllX.java)  
+- [Remove Duplicates](Recurssion/RemoveDuplicates.java)  
+- [Subsequences](Recurssion/Subsequences.java)  
+- [Keypad Combinations](Recurssion/KeypadCombinations.java)  
+- [Unique Subsequences](Recurssion/UniqueSubsequences.java)  
+- [Notes ](Recurssion/ReadMe.md)  
+
+---
