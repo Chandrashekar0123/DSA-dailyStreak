@@ -126,3 +126,18 @@
 - [Notes ](Recurssion/ReadMe.md)  
 
 ---
+
+## Recurssion
+
+Permutation.java
+TotalPath 
+TilingProblem
+InviteGuest.java
+SubsetofNaturalno.java
+
+---
+
+## Backtrainkg
+ 
+ SubsetsBacktracking.java
+ nQueens.java
