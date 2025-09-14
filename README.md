@@ -127,17 +127,23 @@
 
 ---
 
-## Recurssion
+## Advance Recurssion  
 
-Permutation.java
-TotalPath 
-TilingProblem
-InviteGuest.java
-SubsetofNaturalno.java
+- [Unique Subsequences](Recurssion/UniqueSubsequences.java)  
+- [Permutation](Recurssion/Permutation.java)  
+- [Total Path](Recurssion/TotalPath.java)  
+- [Tiling Problem](Recurssion/TilingProblem.java)  
+- [Invite Guest](Recurssion/InviteGuest.java)  
+- [Subset of Natural Numbers](Recurssion/SubsetofNaturalno.java)  
+- [Notes](Recurssion/ReadMe.md)  
 
 ---
 
-## Backtrainkg
- 
- SubsetsBacktracking.java
- nQueens.java
+## Backtracking  
+
+- [Subsets Backtracking](Backtracking/SubsetsBacktracking.java)  
+- [N Queens](Backtracking/nQueens.java)  
+- [Notes](Backtracking/ReadMe.md)
+
+---
+
