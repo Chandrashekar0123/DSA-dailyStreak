@@ -142,8 +142,15 @@
 ## Backtracking  
 
 - [Subsets Backtracking](Backtracking/SubsetsBacktracking.java)  
-- [N Queens](Backtracking/nQueens.java)  
+- [N Queens](Backtracking/nQueens.java)
+- [Sudoku Problem/Game](Backtracking/Sudoku.java)
 - [Notes](Backtracking/ReadMe.md)
 
 ---
 
+## Divide and Conquer
+
+- [Merge Sort](Divide-and-Conquer/MergeSort.java)
+- [Quick Sort](Divide-and-Conquer/QuickSort.java)
+- [Quick Sort](Divide-and-Conquer/ReadMe.md)
+- [Notes](Divide-and-Conquer/)

@@ -6,9 +6,19 @@ and backtrack when we reach an invalid state.
 
 ---
 
+### 📝 About Backtracking  
+
+Backtracking is a general algorithmic technique that incrementally builds candidates for solutions  
+and abandons a candidate as soon as it determines the candidate cannot possibly lead to a valid solution.  
+It’s especially useful for generating combinations, permutations, and solving constraint satisfaction problems  
+such as Sudoku, N-Queens, and word searches.
+
+---
+
+
 ### 📂 Files & Paths
 
-- [SubsetsBacktracking.java](SubsetsBacktracking.java)  
+- [Subsets Backtracking](SubsetsBacktracking.java)  
   **Description:**  
   Generates all possible subsets of a given set or array using backtracking.  
   This demonstrates how backtracking can explore all inclusion/exclusion possibilities.  
@@ -24,7 +34,7 @@ and backtrack when we reach an invalid state.
 
 ---
 
-- [nQueens.java](nQueens.java)  
+- [NQueens Problem](nQueens.java)  
   **Description:**  
   Solves the classic N-Queens problem using backtracking.  
   Places N queens on an `N × N` chessboard so that no two queens attack each other.  
@@ -40,9 +50,27 @@ and backtrack when we reach an invalid state.
 
 ---
 
-### 📝 About Backtracking  
+## [Sudoku Solver](Sudoku.java)
 
-Backtracking is a general algorithmic technique that incrementally builds candidates for solutions  
-and abandons a candidate as soon as it determines the candidate cannot possibly lead to a valid solution.  
-It’s especially useful for generating combinations, permutations, and solving constraint satisfaction problems  
-such as Sudoku, N-Queens, and word searches.
+- Standard 9×9 Sudoku grid with 3×3 subgrids.
+- Each row, column, and box must contain digits 1–9 without repetition.
+- Empty cells are represented by _.
+
+**⚙️ How It Works**
+
+- Uses backtracking to fill empty cells.
+- Tries numbers 1–9, checks row/column/box constraints (isSafe()), recurses, and backtracks if needed.
+
+**📝 Constraints**
+
+- Input board size: 9×9 only.
+- Valid chars: '1'–'9' or '_'.
+
+**Time & Space Complexity** 
+
+| Operation         | Complexity                |
+|------------------|---------------------------|
+| **Time (worst)** | O(9^m) — m = empty cells   |
+| **Space**        | O(m) recursion stack + constant board storage |
+
+- **Why:** For each empty cell, we may try up to 9 digits; recursion depth = number of empty cells.

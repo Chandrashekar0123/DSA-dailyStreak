@@ -71,3 +71,17 @@ public class nQueens {
         solveNQueens(board, 0);
     }
 }
+
+/*Output :
+Solutions for 4-Queens:
+. Q . .
+. . . Q
+Q . . .
+. . Q .
+
+. . Q .
+Q . . .
+. . . Q
+. Q . .
+
+*/
