@@ -152,5 +152,4 @@
 
 - [Merge Sort](Divide-and-Conquer/MergeSort.java)
 - [Quick Sort](Divide-and-Conquer/QuickSort.java)
-- [Quick Sort](Divide-and-Conquer/ReadMe.md)
-- [Notes](Divide-and-Conquer/)
+- [Notes](Divide-and-Conquer/ReadMe.md))
