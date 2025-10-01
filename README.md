@@ -180,6 +180,7 @@
 - [Non-Static Methods](mypackage/NonStaticMethodDemo.java)
 - [Notes](mypackage/ReadMe.md)
 
+---
 
 ## [Linked List](LinkedList)
 
