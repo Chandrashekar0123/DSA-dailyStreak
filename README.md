@@ -2,7 +2,7 @@
 
 ---
 
-## Basics of Programming
+## [Basics of Programming](Basics-of-Programming)
 
 - [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
 - [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
@@ -190,4 +190,4 @@
 - [Find n th Node from last in Linked List and Deleting it](LinkedList/nthNode.java)
 - [Checking whether the Linked List is Palindrome or not](LinkedList/PalindromeLL.java)
 - [Detecting Loop/Cycle in Linked List](LinkedList/Cycle.java)
-- [Notes](LinkedList/Notes.md)
+- [Notes](LinkedList/ReadMe.md)
