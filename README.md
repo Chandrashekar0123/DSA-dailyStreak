@@ -180,3 +180,11 @@
 - [Static Methods](mypackage/StaticMethodDemo.java)
 - [Non-Static Methods](mypackage/NonStaticMethodDemo.java)
 - [Notes](mypackage/ReadMe.md)
+
+
+## Linked List
+-[Single Linked List](LinkedList/SingleLL.java)
+- [Reversing a Linked List using Loops](LinkedList/ReverseList_loop.java)
+- [Reversing a Linked List using Recursion](LinkedList/ReverseLL_Recursion.java)
+- [Find n th Node from last in Linked List and Deleting it](LinkedList/nthNode.java)
+- [Checking whether the Linked List is Palindrome or not](LinkedList/PalindromeLL.java)
