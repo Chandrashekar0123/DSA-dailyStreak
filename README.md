@@ -13,7 +13,7 @@
 
 ---
 
-## Loops
+## [Loops](Loops)
 
 - [For Loop (Java)](Loops/forl.java)  
 - [While Loop (Java)](Loops/whilel.java)  
@@ -22,7 +22,7 @@
 
 ---
 
-## Patterns
+## [Patterns](Patterns)
 
 - [Solid Rectangle](Patterns/SolidRectangle.java)  
 - [Hollow Rectangle](Patterns/HollowRectangle.java)  
@@ -42,7 +42,7 @@
 
 ---
 
-## Functions (Methods in Java)
+## [Functions (Methods in Java)](Functions)
 
 - [Print My Name using Method](Functions/PrintMyName.java)  
 - [Factorial using Method](Functions/factorial.java)  
@@ -51,13 +51,13 @@
 
 ---
 
-## Time and Space Complexity
+## [Time and Space Complexity](Time-Space-Complexity.md)
 
 - [Time and Space Complexity](Time-Space-Complexity.md)  
 
 ---
 
-## Arrays
+## [Arrays](Arrays)
 
 - [Basic Array Operations](Arrays/BasicArray.java)  
 - [Linear Search](Arrays/LinearSearch.java)  
@@ -67,7 +67,7 @@
 
 ---
 
-## Strings
+## [Strings](Strings)
 
 - [String Operations](Strings/StringOperations.java)  
 - [StringBuilder Demo](Strings/StringBuilderDemo.java)  
@@ -76,7 +76,7 @@
 
 ---
 
-## Operators
+## [Operators](Operators)
 
 - [Arithmetic Operators](Operators/Arithmatic.java)  
 - [Assignment Operators](Operators/Assignment.java)  
@@ -87,7 +87,7 @@
 
 ---
 
-## Bit Manipulation
+## [Bit Manipulation](Bit-Manipulation)
 
 - [Get a Bit](Bit-Manipulation/Get.java)  
 - [Set a Bit](Bit-Manipulation/Set.java)  
@@ -97,7 +97,7 @@
 
 ---
 
-## 📑 Sorting
+## [Sorting](Sorting)
 
 - [Bubble Sort](Sorting/BubbleSort.java)  
 - [Selection Sort](Sorting/SelectionSort.java)  
@@ -107,7 +107,7 @@
 
 ---
 
-## 🔁 Recursion
+## [Recursion](Recurssion)
 
 - [Printing Elements using Recursion](Recurssion/PrintRecurssion.java)  
 - [Sum Of Natural Numbers](Recurssion/SumOfNaturalNumbers.java)  
@@ -127,8 +127,7 @@
 
 ---
 
-## Advance Recurssion  
-
+## [Advance Recurssion](Advance-Recurssion)
 
 - [Permutation](Advance-Recurssion/Permutation.java)  
 - [Total Path](Advance-Recurssion/TotalPath.java)  
@@ -139,7 +138,7 @@
 
 ---
 
-## Backtracking  
+## [Backtracking](Backtracking)
 
 - [Subsets Backtracking](Backtracking/SubsetsBacktracking.java)  
 - [N Queens](Backtracking/nQueens.java)
@@ -148,14 +147,15 @@
 
 ---
 
-## Divide and Conquer
+## [Divide and Conquer](Divide-and-Conquer)
 
 - [Merge Sort](Divide-and-Conquer/MergeSort.java)
 - [Quick Sort](Divide-and-Conquer/QuickSort.java)
 - [Notes](Divide-and-Conquer/ReadMe.md)
 
+---
 
-##  OOPS Java Programs
+##  [OOPS Java Programs](Oops)
 
 - [Basic Program for Classes and Objects](Oops/classandobject.java)
 - [Constructor](Oops/Constructor.java)
@@ -172,7 +172,7 @@
 
 ---
 
-##  Packages, Access Modifiers and Static methods
+##  [Packages, Access Modifiers and Static methods](mypackage)
 
 - [Package Creation](mypackage/Hello.java)
 - [Package Usage](mypackage/TestPackage.java)
@@ -181,8 +181,9 @@
 - [Non-Static Methods](mypackage/NonStaticMethodDemo.java)
 - [Notes](mypackage/ReadMe.md)
 
+---
 
-## Linked List
+## [Linked List](LinkedList)
 
 - [Single Linked List](LinkedList/SingleLL.java)
 - [Reversing a Linked List using Loops](LinkedList/ReverseList_loop.java)
