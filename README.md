@@ -192,3 +192,10 @@
 - [Checking whether the Linked List is Palindrome or not](LinkedList/PalindromeLL.java)
 - [Detecting Loop/Cycle in Linked List](LinkedList/Cycle.java)
 - [Notes](LinkedList/ReadMe.md)
+
+---
+
+## [Stack](Stack)
+
+- [Stack using Lnked List](Stack/StackLL.java)
+- [Stack using Array List](Stack/StackAL.java)
