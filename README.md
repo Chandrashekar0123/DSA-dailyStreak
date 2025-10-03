@@ -199,3 +199,7 @@
 
 - [Stack using Lnked List](Stack/StackLL.java)
 - [Stack using Array List](Stack/StackAL.java)
+- [Stack using Collections](Stack/StackCollections.java)
+- [Adding (pushing) an Element at Bottom](Stack/addAtBottom.java)
+- [Reverse the Stack](Stack/ReverseStack.java)
+- [Notes](Stack/ReadMe.md)
