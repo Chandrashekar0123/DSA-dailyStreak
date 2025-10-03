@@ -2,16 +2,19 @@ import java.util.Stack;
 
 public class addAtBottom {
 
-//===============================================================
+    //===============================================================
+    // Recursive function to add element at the bottom of stack
     public static void addEleAtBottom(int x, Stack<Integer> s) {
-        if(stack.isEmpty()) {
-            stack.push(x);
+        if (s.isEmpty()) {
+            s.push(x);
+            return;
         }
-        int top = stack.pop();
+        int top = s.pop();
         addEleAtBottom(x, s);
-        push(top);
+        s.push(top);
     }
-//===============================================================
+    //===============================================================
+
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
 
@@ -19,9 +22,9 @@ public class addAtBottom {
         stack.push(10);
         stack.push(20);
         stack.push(30);
-       
+
         System.out.println("Pushing an element '40' at Bottom of Stack");
-        stack.addEleAtBottom(40, s);
+        addAtBottom.addEleAtBottom(40, stack);
 
         System.out.println("Current Stack: " + stack);
         System.out.println("Top element: " + stack.peek());
@@ -38,7 +41,9 @@ public class addAtBottom {
 }
 
 /*
-OUTPUT :
+OUTPUT : 
+//javac addAtBottom.java
+//java addAtBottom
 Pushing elements: 10, 20, 30 Normally
 Pushing an element '40' at Bottom of Stack
 Current Stack: [40, 10, 20, 30]
