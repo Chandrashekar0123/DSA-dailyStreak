@@ -1,90 +1,136 @@
+<div align="center">
+  <img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
+  <h1 style="color:#43e97b;">DSA Daily Streak</h1>
+  <p style="font-size:1.2em; color:#ffffff; background:linear-gradient(to right, #11998e, #38ef7d); padding:5px 10px; border-radius:10px;">
+    Your ultimate journey to mastering Data Structures & Algorithms 🚀
+  </p>
+  <p style="max-width:650px; margin-top:10px; color:#999999;">
+    This repository is your one-stop collection of DSA programs, patterns, algorithms, and practice problems.  
+    Track your daily streak, strengthen problem-solving skills, and level up for coding interviews, competitive programming, and real-world software development.
+  </p>
+</div>
+
+---
+
+## Why Learn DSA? 💡
+
+Data Structures and Algorithms (DSA) are the backbone of efficient programming. Mastering DSA helps you:
+
+- Solve complex problems **systematically and efficiently**.  
+- Optimize code for **speed and memory**.  
+- Perform **better in coding interviews** at top tech companies.  
+- Understand the **underlying logic behind software systems and applications**.  
+- Build a strong foundation for **competitive programming and advanced computer science topics**.
+
+---
+
+## Applications of DSA 🚀
+
+DSA is not just academic – it powers real-world applications:
+
+- **Search engines** like Google use advanced data structures for fast searching and ranking.  
+- **Social media platforms** rely on graphs for friend suggestions and connections.  
+- **E-commerce websites** optimize inventory and recommendations using algorithms.  
+- **Navigation & Maps** use shortest path algorithms for routing.  
+- **Machine Learning & AI** use trees, heaps, and graphs for optimized computations.  
+- **Gaming engines** use data structures for collision detection, pathfinding, and object management.
+
+> Practicing DSA daily builds logical thinking and problem-solving skills, making you a stronger programmer and a better engineer.
+
+---
+
+# Table of Contents 📖
+
+1. [Basics of Programming](#basics-of-programming)  
+2. [Loops](#loops)  
+3. [Patterns](#patterns)  
+4. [Functions / Methods](#functions--methods)  
+5. [Time & Space Complexity](#time--space-complexity)  
+6. [Arrays](#arrays)  
+7. [Strings](#strings)  
+8. [Operators](#operators)  
+9. [Bit Manipulation](#bit-manipulation)  
+10. [Sorting](#sorting)  
+11. [Recursion](#recursion)  
+12. [Advanced Recursion](#advanced-recursion)  
+13. [Backtracking](#backtracking)  
+14. [Divide & Conquer](#divide--conquer)  
+15. [OOPS Java Programs](#oops-java-programs)  
+16. [Packages & Access Modifiers](#packages--access-modifiers)  
+17. [Linked List](#linked-list)  
+18. [Stack](#stack)  
+19. [Queues](#queues)  
+
+---
+
+> ⚡ Start your DSA journey now, track your daily streak, and become a master problem solver!  
+
+
+---
+
 # DSA Daily Streak
-<div align="center">
-	<img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
-  
-	# DSA Daily Streak
-  
-	<b>Master Data Structures & Algorithms with Daily Practice</b>
-</div>
-
-
-Welcome to the **DSA Daily Streak** repository! This collection is designed to help you learn, practice, and master Data Structures and Algorithms (DSA) in a structured, hands-on way. Each folder contains well-commented code, notes, and classic problems, organized for easy navigation and progressive learning.
-
-## 📚 Table of Contents
-
-### Fundamentals
-- [Basics of Programming](Basics-of-Programming)  
-- [Loops](Loops)  
-- [Patterns](Patterns)  
-- [Functions (Java Methods)](Functions)  
-- [Time & Space Complexity](Time-Space-Complexity.md)  
-
-### Core Data Structures
-- [Arrays](Arrays)  
-- [Strings](Strings)  
-- [Operators](Operators)  
-- [Bit Manipulation](Bit-Manipulation)  
-- [Sorting](Sorting)  
-- [Recursion](Recurssion)  
-- [Advance Recursion](Advance-Recurssion)  
-- [Backtracking](Backtracking)  
-- [Divide & Conquer](Divide-and-Conquer)  
-- [OOPS Java Programs](Oops)  
-- [Packages & Access Modifiers](mypackage)  
-- [Linked List](LinkedList)  
-- [Stack](Stack)  
-- [Queues](Queues)  
 
 ---
 
-## 🚀 Highlights & Features
-- **Comprehensive Coverage:** From basics to advanced topics, every major DSA concept is included.
-- **Hands-On Practice:** Each folder contains multiple solved problems, code samples, and notes.
-- **Java & Python:** Examples in both languages for foundational topics.
-- **Real-World Applications:** Learn how DSA powers real systems like scheduling, searching, and resource management.
-- **Beautifully Organized:** Easy navigation with clear folder structure and links.
+## [Basics of Programming](Basics-of-Programming)
+
+- [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
+- [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
+- [Conditionals (Java: if-else)](Basics-of-Programming/condition1.java)  
+- [Conditionals (Python: else-if ladder)](Basics-of-Programming/elseifladder.py)  
+- [Switch Statement (Java)](Basics-of-Programming/switchstmt.java)  
+- [Notes](Basics-of-Programming/README.md)  
 
 ---
 
-## 🗂️ Folder Overview
+## [Loops](Loops)
 
-### Basics & Patterns
-- Simple programs, loops, and classic pattern problems to build your foundation.
-
-### Arrays, Strings, Operators
-- Core data structures and operations, including searching, sorting, and manipulation.
-
-### Recursion & Backtracking
-- Classic recursive problems, advanced recursion, and backtracking solutions.
-
-### OOPS, Packages, Linked List
-- Object-oriented programming, Java packages, and linked list operations.
-
-### Stack & Queues
-- Multiple implementations (Array, Linked List, Collections, Stacks) with detailed explanations. See [Queues/ReadMe.md](Queues/ReadMe.md) for a deep dive into queues!
+- [For Loop (Java)](Loops/forl.java)  
+- [While Loop (Java)](Loops/whilel.java)  
+- [Do-While Loop (Java)](Loops/dowhilel.java)  
+- [Notes](Loops/README.md)  
 
 ---
 
-## ✨ How to Use This Repo
-1. **Browse by Topic:** Use the Table of Contents to jump to any concept.
-2. **Read the Notes:** Each folder has a README or notes file for quick theory.
-3. **Run the Code:** Try out the Java/Python files to see DSA in action.
-4. **Practice Daily:** Consistency is key—aim for a daily streak!
+## [Patterns](Patterns)
+
+- [Solid Rectangle](Patterns/SolidRectangle.java)  
+- [Hollow Rectangle](Patterns/HollowRectangle.java)  
+- [Half Pyramid](Patterns/HalfPyramid.java)  
+- [Inverted Half Pyramid](Patterns/InveredHalfPyramid.java)  
+- [Inverted Half Pyramid 2](Patterns/InvertedHalfPyramid2.java)  
+- [Half Pyramid with Numbers](Patterns/HalfPyramidWithNumbers.java)  
+- [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)  
+- [Floyd's Triangle](Patterns/FloydsTriangle.java)  
+- [0-1 Triangle](Patterns/0-1Triangle.java)  
+- [Butterfly Pattern](Patterns/Butterfly.java)  
+- [Solid Rhombus](Patterns/SolidRhombus.java)  
+- [Number Pyramid](Patterns/NumberPyramid.java)  
+- [Palindromic Pattern](Patterns/PalindromicPattern.java)  
+- [Diamond Pattern](Patterns/DiomandPattern.java)  
+- [Notes](Patterns/README.md)  
 
 ---
 
-## 💡 Why DSA?
-Data Structures and Algorithms are the backbone of efficient programming and technical interviews. Mastering DSA helps you:
-- Solve complex problems efficiently
-- Ace coding interviews
-- Build scalable software
-- Think algorithmically
+## [Functions (Methods in Java)](Functions)
+
+- [Print My Name using Method](Functions/PrintMyName.java)  
+- [Factorial using Method](Functions/factorial.java)  
+- [Add Two Numbers using Method](Functions/add2nos.java)  
+- [Notes on Functions & Methods](Functions/README.md)  
 
 ---
 
-<div align="center">
-	<b>Start your DSA journey today. Happy coding! 🚀</b>
-</div>
+## [Time and Space Complexity](Time-Space-Complexity.md)
+
+- [Time and Space Complexity](Time-Space-Complexity.md)  
+
+---
+
+## [Arrays](Arrays)
+
+- [Basic Array Operations](Arrays/BasicArray.java)  
+- [Linear Search](Arrays/LinearSearch.java)  
 - [2D Array Search](Arrays/Search2D-Array.java)  
 - [Transpose of Matrix](Arrays/TransposeMatrix.java)  
 - [Notes](Arrays/ReadMe.md)  
@@ -232,11 +278,11 @@ Data Structures and Algorithms are the backbone of efficient programming and tec
 
 ## [Queues](Queues)
 
--[Queue using Arrays](Queues/QueueArray.java)
--[Circular Queue using Arrays](Queues/CircularQ.java)
--[Queue using Linked List](Queues/QueueLL.java)
--[Queue using Collections framework](Queues/QueueCollection.java)
--[Queue using 2 Stacks](Queues/QusingStacks.java)
+- [Queue using Arrays](Queues/QueueArray.java)
+- [Circular Queue using Arrays](Queues/CircularQ.java)
+- [Queue using Linked List](Queues/QueueLL.java)
+- [Queue using Collections framework](Queues/QueueCollection.java)
+- [Queue using 2 Stacks](Queues/QusingStacks.java)
+- [Notes](Queues/ReadMe.md)
 
 ---
-
