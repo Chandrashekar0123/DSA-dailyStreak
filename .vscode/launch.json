@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hashmapexample",
+            "request": "launch",
+            "mainClass": "hashmapexample",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "hastsetexample",
+            "request": "launch",
+            "mainClass": "hastsetexample",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "hashsett",
+            "request": "launch",
+            "mainClass": "hashsett",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "hashset",
+            "request": "launch",
+            "mainClass": "hashset",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "QusingStacks",
             "request": "launch",
             "mainClass": "QusingStacks",

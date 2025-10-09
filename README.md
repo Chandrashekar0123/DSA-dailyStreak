@@ -286,3 +286,11 @@ DSA is not just academic – it powers real-world applications:
 - [Notes](Queues/ReadMe.md)
 
 ---
+
+[Hashing](Hashing)
+
+- [HashSet](Hashing/hastsetexample.java)
+- [HashMap](Hashing/hashmapexample.java)
+- 
+- 
+- [Notes](Hashing/ReadMe.md)
