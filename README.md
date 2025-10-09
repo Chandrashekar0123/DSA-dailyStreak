@@ -1,66 +1,90 @@
 # DSA Daily Streak
+<div align="center">
+	<img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
+  
+	# DSA Daily Streak
+  
+	<b>Master Data Structures & Algorithms with Daily Practice</b>
+</div>
+
+
+Welcome to the **DSA Daily Streak** repository! This collection is designed to help you learn, practice, and master Data Structures and Algorithms (DSA) in a structured, hands-on way. Each folder contains well-commented code, notes, and classic problems, organized for easy navigation and progressive learning.
+
+## 📚 Table of Contents
+
+### Fundamentals
+- [Basics of Programming](Basics-of-Programming)  
+- [Loops](Loops)  
+- [Patterns](Patterns)  
+- [Functions (Java Methods)](Functions)  
+- [Time & Space Complexity](Time-Space-Complexity.md)  
+
+### Core Data Structures
+- [Arrays](Arrays)  
+- [Strings](Strings)  
+- [Operators](Operators)  
+- [Bit Manipulation](Bit-Manipulation)  
+- [Sorting](Sorting)  
+- [Recursion](Recurssion)  
+- [Advance Recursion](Advance-Recurssion)  
+- [Backtracking](Backtracking)  
+- [Divide & Conquer](Divide-and-Conquer)  
+- [OOPS Java Programs](Oops)  
+- [Packages & Access Modifiers](mypackage)  
+- [Linked List](LinkedList)  
+- [Stack](Stack)  
+- [Queues](Queues)  
 
 ---
 
-## [Basics of Programming](Basics-of-Programming)
-
-- [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
-- [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
-- [Conditionals (Java: if-else)](Basics-of-Programming/condition1.java)  
-- [Conditionals (Python: else-if ladder)](Basics-of-Programming/elseifladder.py)  
-- [Switch Statement (Java)](Basics-of-Programming/switchstmt.java)  
-- [Notes](Basics-of-Programming/README.md)  
+## 🚀 Highlights & Features
+- **Comprehensive Coverage:** From basics to advanced topics, every major DSA concept is included.
+- **Hands-On Practice:** Each folder contains multiple solved problems, code samples, and notes.
+- **Java & Python:** Examples in both languages for foundational topics.
+- **Real-World Applications:** Learn how DSA powers real systems like scheduling, searching, and resource management.
+- **Beautifully Organized:** Easy navigation with clear folder structure and links.
 
 ---
 
-## [Loops](Loops)
+## 🗂️ Folder Overview
 
-- [For Loop (Java)](Loops/forl.java)  
-- [While Loop (Java)](Loops/whilel.java)  
-- [Do-While Loop (Java)](Loops/dowhilel.java)  
-- [Notes](Loops/README.md)  
+### Basics & Patterns
+- Simple programs, loops, and classic pattern problems to build your foundation.
 
----
+### Arrays, Strings, Operators
+- Core data structures and operations, including searching, sorting, and manipulation.
 
-## [Patterns](Patterns)
+### Recursion & Backtracking
+- Classic recursive problems, advanced recursion, and backtracking solutions.
 
-- [Solid Rectangle](Patterns/SolidRectangle.java)  
-- [Hollow Rectangle](Patterns/HollowRectangle.java)  
-- [Half Pyramid](Patterns/HalfPyramid.java)  
-- [Inverted Half Pyramid](Patterns/InveredHalfPyramid.java)  
-- [Inverted Half Pyramid 2](Patterns/InvertedHalfPyramid2.java)  
-- [Half Pyramid with Numbers](Patterns/HalfPyramidWithNumbers.java)  
-- [Inverted Half Pyramid with Numbers](Patterns/InvertedHalfPyramidwithNumbers.java)  
-- [Floyd's Triangle](Patterns/FloydsTriangle.java)  
-- [0-1 Triangle](Patterns/0-1Triangle.java)  
-- [Butterfly Pattern](Patterns/Butterfly.java)  
-- [Solid Rhombus](Patterns/SolidRhombus.java)  
-- [Number Pyramid](Patterns/NumberPyramid.java)  
-- [Palindromic Pattern](Patterns/PalindromicPattern.java)  
-- [Diamond Pattern](Patterns/DiomandPattern.java)  
-- [Notes](Patterns/README.md)  
+### OOPS, Packages, Linked List
+- Object-oriented programming, Java packages, and linked list operations.
+
+### Stack & Queues
+- Multiple implementations (Array, Linked List, Collections, Stacks) with detailed explanations. See [Queues/ReadMe.md](Queues/ReadMe.md) for a deep dive into queues!
 
 ---
 
-## [Functions (Methods in Java)](Functions)
-
-- [Print My Name using Method](Functions/PrintMyName.java)  
-- [Factorial using Method](Functions/factorial.java)  
-- [Add Two Numbers using Method](Functions/add2nos.java)  
-- [Notes on Functions & Methods](Functions/README.md)  
-
----
-
-## [Time and Space Complexity](Time-Space-Complexity.md)
-
-- [Time and Space Complexity](Time-Space-Complexity.md)  
+## ✨ How to Use This Repo
+1. **Browse by Topic:** Use the Table of Contents to jump to any concept.
+2. **Read the Notes:** Each folder has a README or notes file for quick theory.
+3. **Run the Code:** Try out the Java/Python files to see DSA in action.
+4. **Practice Daily:** Consistency is key—aim for a daily streak!
 
 ---
 
-## [Arrays](Arrays)
+## 💡 Why DSA?
+Data Structures and Algorithms are the backbone of efficient programming and technical interviews. Mastering DSA helps you:
+- Solve complex problems efficiently
+- Ace coding interviews
+- Build scalable software
+- Think algorithmically
 
-- [Basic Array Operations](Arrays/BasicArray.java)  
-- [Linear Search](Arrays/LinearSearch.java)  
+---
+
+<div align="center">
+	<b>Start your DSA journey today. Happy coding! 🚀</b>
+</div>
 - [2D Array Search](Arrays/Search2D-Array.java)  
 - [Transpose of Matrix](Arrays/TransposeMatrix.java)  
 - [Notes](Arrays/ReadMe.md)  
@@ -203,3 +227,16 @@
 - [Adding (pushing) an Element at Bottom](Stack/addAtBottom.java)
 - [Reverse the Stack](Stack/ReverseStack.java)
 - [Notes](Stack/ReadMe.md)
+
+---
+
+## [Queues](Queues)
+
+-[Queue using Arrays](Queues/QueueArray.java)
+-[Circular Queue using Arrays](Queues/CircularQ.java)
+-[Queue using Linked List](Queues/QueueLL.java)
+-[Queue using Collections framework](Queues/QueueCollection.java)
+-[Queue using 2 Stacks](Queues/QusingStacks.java)
+
+---
+

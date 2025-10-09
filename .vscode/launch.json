@@ -5,12 +5,59 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "QusingStacks",
+            "request": "launch",
+            "mainClass": "QusingStacks",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "QueueCollection",
+            "request": "launch",
+            "mainClass": "QueueCollection",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "QueueLL",
+            "request": "launch",
+            "mainClass": "QueueLL",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "QueueLL$Node",
+            "request": "launch",
+            "mainClass": "QueueLL$Node",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CircularQ",
+            "request": "launch",
+            "mainClass": "CircularQ",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "QueueArray",
+            "request": "launch",
+            "mainClass": "QueueArray",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
             "name": "Attach by com.sun.jdi.SharedMemoryListen",
             "type": "jdk",
             "request": "attach",
             "listen": "true"
         },
-        {"name":"Python Debugger: Attach using Process Id","type":"debugpy","request":"attach","processId":"${command:pickProcess}"},
+        {
+            "name": "Python Debugger: Attach using Process Id",
+            "type": "debugpy",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        },
         {
             "name": "Launch Chrome",
             "request": "launch",
