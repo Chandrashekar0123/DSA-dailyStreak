@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArithmeticOperatorsDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticOperatorsDemo",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "IteneraryHash",
+            "request": "launch",
+            "mainClass": "IteneraryHash",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionHash",
+            "request": "launch",
+            "mainClass": "IntersectionHash",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "UnionHash",
+            "request": "launch",
+            "mainClass": "UnionHash",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "HighFreq",
+            "request": "launch",
+            "mainClass": "HighFreq",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "HashImplementation",
+            "request": "launch",
+            "mainClass": "HashImplementation",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "hashmapexample",
             "request": "launch",
             "mainClass": "hashmapexample",
