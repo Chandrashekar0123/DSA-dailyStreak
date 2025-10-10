@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
   <h1 style="color:#43e97b;">DSA Daily Streak</h1>
   <p style="font-size:1.2em; color:#ffffff; background:linear-gradient(to right, #11998e, #38ef7d); padding:5px 10px; border-radius:10px;">
     Your ultimate journey to mastering Data Structures & Algorithms 🚀
@@ -291,6 +290,8 @@ DSA is not just academic – it powers real-world applications:
 
 - [HashSet](Hashing/hastsetexample.java)
 - [HashMap](Hashing/hashmapexample.java)
+- [HashMa](Hashinh/hasjinh.java)
+- 
 - 
 - 
 - [Notes](Hashing/ReadMe.md)
