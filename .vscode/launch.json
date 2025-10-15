@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubTreeOfTree",
+            "request": "launch",
+            "mainClass": "SubTreeOfTree",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "TreeDiameter",
+            "request": "launch",
+            "mainClass": "TreeDiameter",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "DiameterOfTree0",
+            "request": "launch",
+            "mainClass": "DiameterOfTree0",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "DiameterOfTree",
+            "request": "launch",
+            "mainClass": "DiameterOfTree",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "HeightofTree",
+            "request": "launch",
+            "mainClass": "HeightofTree",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CountOfNodes",
+            "request": "launch",
+            "mainClass": "CountOfNodes",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "BFS",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "PostOrderTraversal",
+            "request": "launch",
+            "mainClass": "PostOrderTraversal",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "InorderTraversal",
+            "request": "launch",
+            "mainClass": "InorderTraversal",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "Preorder",
+            "request": "launch",
+            "mainClass": "Preorder",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CreateTree",
+            "request": "launch",
+            "mainClass": "Trees.CreateTree",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "ArithmeticOperatorsDemo",
             "request": "launch",
             "mainClass": "ArithmeticOperatorsDemo",

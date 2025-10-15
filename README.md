@@ -286,12 +286,10 @@ DSA is not just academic – it powers real-world applications:
 
 ---
 
-[Hashing](Hashing)
+## 🔐 Hashing Java Files
 
 - [HashSet](Hashing/hastsetexample.java)
 - [HashMap](Hashing/hashmapexample.java)
-- [HashMa](Hashinh/hasjinh.java)
-- 
 - 
 - 
 - [Notes](Hashing/ReadMe.md)
