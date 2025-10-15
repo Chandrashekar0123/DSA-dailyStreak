@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
   <h1 style="color:#43e97b;">DSA Daily Streak</h1>
   <p style="font-size:1.2em; color:#ffffff; background:linear-gradient(to right, #11998e, #38ef7d); padding:5px 10px; border-radius:10px;">
     Your ultimate journey to mastering Data Structures & Algorithms 🚀
@@ -290,6 +291,28 @@ DSA is not just academic – it powers real-world applications:
 
 - [HashSet](Hashing/hastsetexample.java)
 - [HashMap](Hashing/hashmapexample.java)
-- 
-- 
-- [Notes](Hashing/ReadMe.md)
+- [Hash Implementation](Hashing/HashImplementation.java)  
+- [Itinerary using HashMap](Hashing/IteneraryHash.java)  
+- [Subarray Sum (Hashing)](Hashing/SubArraySum.java)  
+- [High Frequency Element](Hashing/HighFreq.java)  
+- [Union of Arrays using Hash](Hashing/UnionHash.java)  
+- [Intersection of Arrays using Hash](Hashing/IntersectionHash.java)  
+ - [Notes](Hashing/ReadMe.md)
+
+---
+## [Trees](Trees)
+
+- [Create Tree](Trees/CreateTree.java)  
+- [Breadth-First Search (BFS)](Trees/BFS.java)  
+- [Count of Nodes](Trees/CountOfNodes.java)  
+- [Diameter of Tree](Trees/DiameterOfTree.java)  
+- [Height of Tree](Trees/HeightofTree.java)  
+- [Inorder Traversal](Trees/InorderTraversal.java)  
+- [Postorder Traversal](Trees/PostOrderTraversal.java)  
+- [Preorder Traversal](Trees/Preorder.java)  
+- [Check Subtree](Trees/SubTreeOfTree.java)  
+- [Sum of Nodes](Trees/SumOfNodes.java)  
+- [Optimized Tree Diameter](Trees/TreeDiameter.java)  
+- [Notes](Trees/ReadMe.md)
+
+---
