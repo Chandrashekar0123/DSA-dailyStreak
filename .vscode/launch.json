@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RootToLeaf",
+            "request": "launch",
+            "mainClass": "RootToLeaf",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "PrintInRange",
+            "request": "launch",
+            "mainClass": "PrintInRange",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "DeleteNode",
+            "request": "launch",
+            "mainClass": "DeleteNode",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "SearchinBst",
+            "request": "launch",
+            "mainClass": "SearchinBst",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "BSTCreation",
+            "request": "launch",
+            "mainClass": "BSTCreation",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "SubTreeOfTree",
             "request": "launch",
             "mainClass": "SubTreeOfTree",

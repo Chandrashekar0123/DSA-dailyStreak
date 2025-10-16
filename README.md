@@ -80,6 +80,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 19. [Queues](#queues)  
 20. [Hashing Java Files](#hashing-java-files)  
 21. [Trees](#trees)  
+22. [Binary Search Tree](#binary-search-tree)
 
 ---
 
@@ -326,6 +327,17 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - [Sum of Nodes](Trees/SumOfNodes.java)  
 - [Optimized Tree Diameter](Trees/TreeDiameter.java)  
 - [Notes](Trees/ReadMe.md)  
+
+---
+
+## Binary Search Tree
+
+- [Creating a sample Binary Search Tree and returning root](BST/BSTCreation.java)  
+- [Searching for a value in BST](BST/SearchinBst.java)  
+- [Deleting a node from BST](BST/DeleteNode.java)  
+- [Printing all nodes within a range](BST/PrintInRange.java)  
+- [Printing all root-to-leaf paths](BST/RootToLeaf.java)  
+- [Notes](BST/ReadMe.md)
 
 ---
 
