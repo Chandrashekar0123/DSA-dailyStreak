@@ -84,8 +84,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## **🌟 Basics of Programming**
-[Go to the course](Basics-of-Programming)
+## **Basics of Programming**
+[Go to the Folder](Basics-of-Programming)
 
 - [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
 - [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
@@ -96,8 +96,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-<h2><a href="Loops" style="color: #FF5733;">Loops</a></h2>
-
+## **Loops**
+[Go to the Folder](Loops)
 
 - [For Loop (Java)](Loops/forl.java)  
 - [While Loop (Java)](Loops/whilel.java)  
@@ -106,7 +106,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Patterns
+## **Patterns**
+[Go to the Folder](Patterns)
 
 - [Solid Rectangle](Patterns/SolidRectangle.java)  
 - [Hollow Rectangle](Patterns/HollowRectangle.java)  
@@ -126,7 +127,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Functions / Methods
+## **Functions / Methods**
+[Go to the Folder](Functions)
 
 - [Print My Name using Method](Functions/PrintMyName.java)  
 - [Factorial using Method](Functions/factorial.java)  
@@ -135,13 +137,15 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Time & Space Complexity
+## **Time & Space Complexity**
+[Go to the Folder](Time-Space-Complexity)
 
 - [Time and Space Complexity](Time-Space-Complexity.md)  
 
 ---
 
-## Arrays
+## **Arrays**
+[Go to the Folder](Arrays)
 
 - [Basic Array Operations](Arrays/BasicArray.java)  
 - [Linear Search](Arrays/LinearSearch.java)  
@@ -151,7 +155,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Strings
+## **Strings**
+[Go to the Folder](Strings)
 
 - [String Operations](Strings/StringOperations.java)  
 - [StringBuilder Demo](Strings/StringBuilderDemo.java)  
@@ -160,7 +165,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Operators
+## **Operators**
+[Go to the Folder](Operators)
 
 - [Arithmetic Operators](Operators/Arithmatic.java)  
 - [Assignment Operators](Operators/Assignment.java)  
@@ -171,7 +177,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Bit Manipulation
+## **Bit Manipulation**
+[Go to the Folder](Bit-Manipulation)
 
 - [Get a Bit](Bit-Manipulation/Get.java)  
 - [Set a Bit](Bit-Manipulation/Set.java)  
@@ -181,7 +188,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Sorting
+## **Sorting**
+[Go to the Folder](Sorting)
 
 - [Bubble Sort](Sorting/BubbleSort.java)  
 - [Selection Sort](Sorting/SelectionSort.java)  
@@ -191,7 +199,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Recursion
+## **Recursion**
+[Go to the Folder](Recursion)
 
 - [Printing Elements using Recursion](Recurssion/PrintRecurssion.java)  
 - [Sum Of Natural Numbers](Recurssion/SumOfNaturalNumbers.java)  
@@ -211,7 +220,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Advanced Recursion
+## **Advanced Recursion**
+[Go to the Folder](Advance-Recurssion)
 
 - [Permutation](Advance-Recurssion/Permutation.java)  
 - [Total Path](Advance-Recurssion/TotalPath.java)  
@@ -222,7 +232,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Backtracking
+## **Backtracking**
+[Go to the Folder](Backtracking)
 
 - [Subsets Backtracking](Backtracking/SubsetsBacktracking.java)  
 - [N Queens](Backtracking/nQueens.java)  
@@ -231,7 +242,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Divide & Conquer
+## **Divide & Conquer**
+[Go to the Folder](Divide-and-Conquer)
 
 - [Merge Sort](Divide-and-Conquer/MergeSort.java)  
 - [Quick Sort](Divide-and-Conquer/QuickSort.java)  
@@ -239,7 +251,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## OOPS Java Programs
+## **OOPS Java Programs**
+[Go to the Folder](Oops)
 
 - [Basic Program for Classes and Objects](Oops/classandobject.java)  
 - [Constructor](Oops/Constructor.java)  
@@ -256,7 +269,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Packages & Access Modifiers
+## **Packages & Access Modifiers**
+[Go to the Folder](mypackage)
 
 - [Package Creation](mypackage/Hello.java)  
 - [Package Usage](mypackage/TestPackage.java)  
@@ -267,7 +281,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Linked List
+## **Linked List**
+[Go to the Folder](LinkedList)
 
 - [Single Linked List](LinkedList/SingleLL.java)  
 - [Reversing a Linked List using Loops](LinkedList/ReverseList_loop.java)  
@@ -279,7 +294,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Stack
+## **Stack**
+[Go to the Folder](Stack)
 
 - [Stack using Lnked List](Stack/StackLL.java)  
 - [Stack using Array List](Stack/StackAL.java)  
@@ -290,7 +306,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Queues
+## **Queues**
+[Go to the Folder](Queues)
 
 - [Queue using Arrays](Queues/QueueArray.java)  
 - [Circular Queue using Arrays](Queues/CircularQ.java)  
@@ -301,7 +318,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Hashing Java Files
+## **Hashing Java Files**
+[Go to the Folder](Hashing)
 
 - [HashSet](Hashing/hastsetexample.java)  
 - [HashMap](Hashing/hashmapexample.java)  
@@ -315,7 +333,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Trees
+## **Trees**
+[Go to the Folder](Trees)
 
 - [Create Tree](Trees/CreateTree.java)  
 - [Breadth-First Search (BFS)](Trees/BFS.java)  
@@ -332,7 +351,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Binary Search Tree
+## **Binary Search Tree**
+[Go to the Folder](BST)
 
 - [Creating a sample Binary Search Tree and returning root](BST/BSTCreation.java)  
 - [Searching for a value in BST](BST/SearchinBst.java)  
