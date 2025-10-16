@@ -144,8 +144,3 @@ Covers most common **BST interview questions**.
 - Shows both **theory + implementation**  
 - Covers search, insert, delete, traverse, range queries, and paths  
 - Demonstrates recursion, tree logic, and edge cases
-
----
-
-# 🙌 Author
-**K Chandra Shekar Reddy**  
