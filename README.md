@@ -84,7 +84,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Basics of Programming
+## [Basics of Programming](Basics-of-Programming)
 
 - [Hello World (Java)](Basics-of-Programming/Hello-world.java)  
 - [Hello World (Python)](Basics-of-Programming/Hello-world.py)  
@@ -95,7 +95,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 
 ---
 
-## Loops
+## [Loops](Loops)
 
 - [For Loop (Java)](Loops/forl.java)  
 - [While Loop (Java)](Loops/whilel.java)  
