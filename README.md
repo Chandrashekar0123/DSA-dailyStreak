@@ -178,7 +178,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 ---
 
 ## **Bit Manipulation**
-[Go to the Folder](Bit-Manipulation.md)
+[Go to the Folder](Bit-Manipulation)
 
 - [Get a Bit](Bit-Manipulation/Get.java)  
 - [Set a Bit](Bit-Manipulation/Set.java)  
@@ -200,7 +200,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 ---
 
 ## **Recursion**
-[Go to the Folder](Recursion)
+[Go to the Folder](Recurssion)
 
 - [Printing Elements using Recursion](Recurssion/PrintRecurssion.java)  
 - [Sum Of Natural Numbers](Recurssion/SumOfNaturalNumbers.java)  
