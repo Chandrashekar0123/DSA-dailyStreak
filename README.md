@@ -138,7 +138,6 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 ---
 
 ## **Time & Space Complexity**
-[Go to the Folder](Time-Space-Complexity)
 
 - [Time and Space Complexity](Time-Space-Complexity.md)  
 
@@ -362,6 +361,18 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - [Notes](BST/ReadMe.md)
 
 ---
+
+## **Tries**
+[Go to the Folder](Tries)
+
+- [Creation of Sample Trie (Root, Nodes)](Tries/TrieCreation.java)
+- [Insertion of nodes into Trie](Tries/Tries.java)
+- [Search a word in Trie](Tries/SearchInTrie.java)
+- [Check if any word starts with given prefix](Tries/StartstWith.java)
+- [Count number of unique words in Trie](Tries/CountUnique.java)
+- [Longest word with all prefixes present](Tries/LongestWord.java)
+- [Word Break Problem using Trie](Tries/WordBreak.java)
+
 
 <div align="center">
 Made with ❤️ by **Chandra Shekar** | Consistency + DSA Passion 🚀

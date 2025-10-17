@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestWord",
+            "request": "launch",
+            "mainClass": "LongestWord",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CountUnique",
+            "request": "launch",
+            "mainClass": "CountUnique",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "StartstWith",
+            "request": "launch",
+            "mainClass": "StartstWith",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "WordBreak",
+            "request": "launch",
+            "mainClass": "WordBreak",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "SearchInTrie",
+            "request": "launch",
+            "mainClass": "SearchInTrie",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "Tries",
+            "request": "launch",
+            "mainClass": "Tries",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "InsertIntoTrie",
+            "request": "launch",
+            "mainClass": "InsertIntoTrie",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "TrieCreation",
+            "request": "launch",
+            "mainClass": "TrieCreation",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "TrieCreation$Trie",
+            "request": "launch",
+            "mainClass": "TrieCreation$Trie",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "RootToLeaf",
             "request": "launch",
             "mainClass": "RootToLeaf",
