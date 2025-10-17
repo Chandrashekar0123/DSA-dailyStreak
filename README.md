@@ -81,6 +81,8 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 20. [Hashing Java Files](#hashing-java-files)  
 21. [Trees](#trees)  
 22. [Binary Search Tree](#binary-search-tree)
+23. [Tries](#tries)
+24. [Graphs](#graphs)
 
 ---
 
@@ -373,6 +375,14 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - [Longest word with all prefixes present](Tries/LongestWord.java)
 - [Word Break Problem using Trie](Tries/WordBreak.java)
 
+## **Graphs**
+[Go to the Folder](Graphs)
+
+-
+-
+-
+-
+-
 
 <div align="center">
 Made with ❤️ by **Chandra Shekar** | Consistency + DSA Passion 🚀
