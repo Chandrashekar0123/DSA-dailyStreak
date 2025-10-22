@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CreateGraphOfGraph",
+            "request": "launch",
+            "mainClass": "CreateGraphOfGraph",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CreateGraph",
+            "request": "launch",
+            "mainClass": "CreateGraph",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CreationOfGraph",
+            "request": "launch",
+            "mainClass": "CreationOfGraph",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "LongestWord",
             "request": "launch",
             "mainClass": "LongestWord",
