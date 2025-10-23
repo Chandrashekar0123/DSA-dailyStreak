@@ -378,7 +378,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 ## **Graphs**
 [Go to the Folder](Graphs)
 
--[Creation of Sample Graph with Nodes and Edges](Graphs/CreateGraphOfGraph)
+- [Creation of Sample Graph with Nodes and Edges](Graphs/CreateGraphOfGraph.java)
 -
 -
 -

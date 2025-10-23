@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPathsFromStoD",
+            "request": "launch",
+            "mainClass": "AllPathsFromStoD",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "CreateGraphOfGraph",
             "request": "launch",
             "mainClass": "CreateGraphOfGraph",

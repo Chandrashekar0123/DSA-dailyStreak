@@ -10,7 +10,18 @@ class CreateGraphOfGraph {
         Edge(int s, int d) {
             this.src = s;
             this.dest = d;
-        }
+
+        //     static class Edge {
+        //         int src;    
+        //         int dest;
+        //         int weight;
+        //         Edge(int s, int d, int w) {
+        //             this.src = s;
+        //             this.dest = d;
+        //             this.weight = w;
+        //         }
+        // }
+    }
     }
 
     // Create the graph
@@ -28,6 +39,12 @@ class CreateGraphOfGraph {
         graph[2].add(new Edge(2, 4));
         graph[3].add(new Edge(3, 1));
         graph[4].add(new Edge(4, 2));
+
+        //For weighted graph
+        // graph[0].add(new Edge(0, 1, 5));
+        // graph[0].add(new Edge(0, 2, 3));
+        // graph[1].add(new Edge(1, 0, 5));
+        // graph[1].add(new Edge(1, 3, 8));     
     }
 
     /*
@@ -51,6 +68,13 @@ class CreateGraphOfGraph {
                 System.out.print(" -> " + e.dest);
             }
             System.out.println();
+
+            //For weighted graph
+            // System.out.print("Vertex " + i + ":");
+            // for (Edge e : graph[i]) {
+            //     System.out.print(" -> " + e.dest + "(weight: " + e.weight + ")");
+            // }
+            // System.out.println();
         }
     }
 }
