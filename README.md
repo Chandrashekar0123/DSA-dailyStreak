@@ -378,9 +378,10 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 ## **Graphs**
 [Go to the Folder](Graphs)
 
-- [Creation of Sample Graph with Nodes and Edges](Graphs/CreateGraphOfGraph.java)
--
--
+- [Creation of Sample Graph with Nodes and Edges](Graphs/CreationOfGraph.java)
+- [Breath First Search](Graphs/BFS.java)
+- [Depth First Search](Graphs/DFS.java)
+- [Finding all Possible Paths From Source to Destination](Graphs/AllPathsFromStoD.java)
 -
 -
 
