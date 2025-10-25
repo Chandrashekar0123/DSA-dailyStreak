@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TopologicalSort",
+            "request": "launch",
+            "mainClass": "TopologicalSort",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CycleDirected",
+            "request": "launch",
+            "mainClass": "CycleDirected",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "CycleUndirected",
+            "request": "launch",
+            "mainClass": "CycleUndirected",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "AllPathsFromStoD",
             "request": "launch",
             "mainClass": "AllPathsFromStoD",

@@ -382,7 +382,9 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - [Breath First Search](Graphs/BFS.java)
 - [Depth First Search](Graphs/DFS.java)
 - [Finding all Possible Paths From Source to Destination](Graphs/AllPathsFromStoD.java)
--
+- [Cycle Detection in Directed Graph](Graphs/CycleDirected.java)
+- [Cycle Detection in UnDirected Graph](Graphs/CycleUndirected.java)
+- [Topological Sorting](Graphs/TopologicalSort.java)
 -
 
 <div align="center">
