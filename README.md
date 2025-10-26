@@ -361,6 +361,8 @@ They help write **optimized, scalable, and high-performance code** by organizing
 - [Longest word with all prefixes present](Tries/LongestWord.java)
 - [Word Break Problem using Trie](Tries/WordBreak.java)
 
+---
+
 ## **Graphs**
 [Go to the Folder](Graphs)
 
@@ -372,6 +374,8 @@ They help write **optimized, scalable, and high-performance code** by organizing
 - [Cycle Detection in UnDirected Graph](Graphs/CycleUndirected.java)
 - [Topological Sorting](Graphs/TopologicalSort.java)
 - [Notes](Graphs/ReadMe.md)
+
+---
 
 ## **Advance Graphs**
 [Go to the Folder](Advance-Graphs)
