@@ -83,6 +83,7 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 22. [Binary Search Tree](#binary-search-tree)
 23. [Tries](#tries)
 24. [Graphs](#graphs)
+25. [Advance-Graphs](#advance-graphs)
 
 ---
 
@@ -385,7 +386,16 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - [Cycle Detection in Directed Graph](Graphs/CycleDirected.java)
 - [Cycle Detection in UnDirected Graph](Graphs/CycleUndirected.java)
 - [Topological Sorting](Graphs/TopologicalSort.java)
+- [Notes](Graphs/ReadMe.md)
+
+## **Advance Graphs**
+[Go to the Folder](Advance-Graphs)
+
+- []()
 -
+-
+-
+
 
 <div align="center">
 Made with ❤️ by **Chandra Shekar** | Consistency + DSA Passion 🚀
