@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.icons8.com/color/96/algorithm.png" width="80" alt="DSA Icon"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80" alt="DSA Icon"/>
 
   <h1 style="font-size:42px; color:#43e97b;">🌟 Data Structures & Algorithms in Java 🌟</h1>
 
@@ -38,22 +38,7 @@ They help write **optimized, scalable, and high-performance code** by organizing
 - Compilers & interpreters (Stacks, Parsing Trees)  
 - Network routing & navigation (Graphs, BFS/DFS)  
 - Search engines and indexing (Heaps, Tries)  
-- Memory management and caching (Linked Lists, Maps)  
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Java developer and DSA enthusiast** who believes in building strong fundamentals.  
-My DSA journey is driven by **consistency, curiosity, and clean coding practices**.
-
-- Solved **500+ DSA problems** across platforms  
-- Strong in **Core Java & Object-Oriented Design**  
-- Focused on writing **clean, readable, and optimized code**  
-- Consistently improving through **challenges and projects**  
-- Dedicated to mastering **DSA for real-world and interview excellence**
-
-This repository is a reflection of my learning, discipline, and passion for **Data Structures & Algorithms in Java**.
+- Memory management and caching (Linked Lists, Maps)
 
 ---
 
@@ -394,7 +379,18 @@ This repository is a reflection of my learning, discipline, and passion for **Da
 - []()
 -
 -
--
+- [Notes](Advance-Graphs/ReadMe.md)
+
+---
+
+## 👨‍💻 About Me
+
+- Curious learner with a strong interest in Java and problem-solving.  
+- Enjoys exploring data structures, algorithms, and their real-world applications.  
+- Believes in learning by building, debugging, and improving code every day.  
+- This space documents the ongoing journey of mastering core computer science concepts.
+
+---
 
 
 <div align="center">
