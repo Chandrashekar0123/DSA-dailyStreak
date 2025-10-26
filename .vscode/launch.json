@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArticulationPoint",
+            "request": "launch",
+            "mainClass": "ArticulationPoint",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "BridgeInGraph",
+            "request": "launch",
+            "mainClass": "BridgeInGraph",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "Kosaraju",
+            "request": "launch",
+            "mainClass": "Kosaraju",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "PrimsAlgorithm",
+            "request": "launch",
+            "mainClass": "PrimsAlgorithm",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFord",
+            "request": "launch",
+            "mainClass": "BellmanFord",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstras",
+            "request": "launch",
+            "mainClass": "Dijkstras",
+            "projectName": "DSA-dailyStreak_54146d1a"
+        },
+        {
+            "type": "java",
             "name": "TopologicalSort",
             "request": "launch",
             "mainClass": "TopologicalSort",

@@ -376,9 +376,12 @@ They help write **optimized, scalable, and high-performance code** by organizing
 ## **Advance Graphs**
 [Go to the Folder](Advance-Graphs)
 
-- []()
--
--
+- [Bellman Ford Algorithm](Advance-Graphs/BellmanFord.java)
+- [Dijkstra’s Shortest Path Algorithm](Advance-Graphs/Dijkstras.java)
+- [Prim’s Minimum Spanning Tree Algorithm](Advance-Graphs/PrimsAlgorithm.java)
+- [Bridge Detection in Graph (Tarjan’s Algorithm)](Advance-Graphs/BridgeInGraph.java)
+- [Articulation Point Detection (Tarjan’s Algorithm)](Advance-Graphs/ArticulationPoint.java)
+- [Strongly Connected Components - Kosaraju’s Algorithm](Advance-Graphs/Kosaraju.java)
 - [Notes](Advance-Graphs/ReadMe.md)
 
 ---
