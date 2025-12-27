@@ -16,7 +16,7 @@ class PrintRecursion {
         }
     }
     public static void main(String[] args) {
-        String str = "abcef";
+        String str = "abc";
         printPerm(str, "");
         
     }
