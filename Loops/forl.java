@@ -8,9 +8,9 @@ class forl {
 
 /*
 Output
-Java Do-While Loop: 1
-Java Do-While Loop: 2
-Java Do-While Loop: 3
-Java Do-While Loop: 4
-Java Do-While Loop: 5
+Java For Loop: 1
+Java For Loop: 2
+Java For Loop: 3
+Java For Loop: 4
+Java For Loop: 5
 */
